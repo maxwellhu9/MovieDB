@@ -17,7 +17,7 @@ An iOS app built using SwiftUI and powered by The Movie Database (TMDb) API. The
 * Show cast & crew details on detail screens
 * Support genre filtering
 
-<img width="309" alt="image" src="https://github.com/user-attachments/assets/98811ef4-d522-4d44-8781-5620510023e3" />
-<img width="297" alt="image" src="https://github.com/user-attachments/assets/69dc74c0-0474-4a79-9815-7754cda52968" />
+<img width="295" alt="image" src="https://github.com/user-attachments/assets/2bd373e3-dde7-4290-bf81-b060c3fc0af1" />
+<img width="299" alt="image" src="https://github.com/user-attachments/assets/cf2611c1-e076-4425-86c0-9c5c116c5eb3" />
 <img width="296" alt="image" src="https://github.com/user-attachments/assets/2e53ccde-29e4-4fa0-96c1-481a86895e41" />
 
