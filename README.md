@@ -3,14 +3,14 @@ An iOS app built using SwiftUI and powered by The Movie Database (TMDb) API. The
 
 ## Features
 * Real-time search
-* Trending media carousel 
+* Media carousel 
 * Categories for popular movies and shows  
-* Beautiful dark mode design
+* Dark mode design
 
 ## Challenges / Future
 #### Difficult Tasks
-* Handling different media types returned by TMDb’s multi-search API was tricky
-* Displaying the correct title, image, and navigation based on the type added extra complexity
+* Handling different media types returned by TMDb’s multi-search API
+* Displaying the correct title, image, and navigation based on the type
 
 #### Potential Future Additions
 * Add favorite or watchlist functionality
